@@ -3,4 +3,4 @@ this is my first computer architecture course project.
 cache simulation implemented in java using created address files with both temporal and special locality..
 
 
-the goal is to increase the hit ratio by adding a specialized cache and comparing it to Direct Mapped Cache.
+the goal is to increase the hit ratio by adding a specialized cache and comparing it to the Hit ration of Direct Mapped Cache.
